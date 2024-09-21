@@ -1,0 +1,1063 @@
+{
+    "data": {
+        "product": {
+            "dataSources": "catalog",
+            "identifiers": {
+                "productType": "MERCHANDISE",
+                "storeSkuNumber": "1007512275",
+                "brandName": "CARRO",
+                "productLabel": "Everest 52 in. Dimmable LED Indoor/Outdoor Black Smart Ceiling Fan, Light and Remote, Works with Alexa/Google Home/Siri",
+                "canonicalUrl": "/p/CARRO-Everest-52-in-Dimmable-LED-Indoor-Outdoor-Black-Smart-Ceiling-Fan-Light-and-Remote-Works-with-Alexa-Google-Home-Siri-NS525E-L12-B3/319929479",
+                "itemId": "319929479",
+                "isSuperSku": false,
+                "parentId": null,
+                "sampleId": null,
+                "skuClassification": "normal",
+                "modelNumber": "NS525E-L12-B3",
+                "specialOrderSku": null,
+                "toolRentalSkuNumber": null,
+                "rentalCategory": null,
+                "rentalSubCategory": null,
+                "upc": "810086821204",
+                "upcGtin13": "0810086821204",
+                "brandMainPageUrl": "/b/CARRO/N-5yc1vZrck",
+                "roomVOEnabled": false,
+                "__typename": "Identifiers"
+            },
+            "availabilityType": {
+                "type": "Shared",
+                "discontinued": false,
+                "status": true,
+                "buyable": true,
+                "__typename": "AvailabilityType"
+            },
+            "media": {
+                "augmentedRealityLink": null,
+                "images": [
+                    {
+                        "url": "https://images.thdstatic.com/productImages/463be8ec-0c2e-486d-8f86-2f4ea93a8c06/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-64_<SIZE>.jpg",
+                        "type": "IMAGE",
+                        "subType": "PRIMARY",
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/94f7584b-f84f-4c60-9e22-05d12a3396be/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-e1_<SIZE>.jpg",
+                        "type": "IMAGE_LEFT_VIEW",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/3d64d767-d82c-4425-9418-8b71bd632de5/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-1d_<SIZE>.jpg",
+                        "type": "IMAGE_BOTTOM_VIEW",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/07c5c9b3-36af-4537-b757-898ce5201d04/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-c3_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/0b995bc7-ee36-4ffc-89b5-3f714add3c48/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-4f_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW_2",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/4b671151-7601-42d8-ae47-6f8f8e330649/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-1f_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW_3",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/6dd53a6a-27fd-4802-aea4-ce588d0fade8/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-44_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW_4",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/63205b56-df3b-4a28-a1d6-1f7d2d8164b8/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-fa_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW_5",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/50488862-1d45-4fb9-923b-34ea0b656346/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-76_<SIZE>.jpg",
+                        "type": "IMAGE_ALTERNATE_VIEW_6",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": null,
+                        "altText": null,
+                        "__typename": "Image"
+                    },
+                    {
+                        "url": "https://images.thdstatic.com/productImages/a70e71b2-581a-4617-acb2-6a483090f1d9/svn/carro-ceiling-fans-with-lights-ns525e-l12-b3-31_<SIZE>.jpg",
+                        "type": "IMAGE_LIFE_STYLE",
+                        "subType": null,
+                        "sizes": [
+                            "65",
+                            "100",
+                            "145",
+                            "300",
+                            "400",
+                            "600",
+                            "1000"
+                        ],
+                        "hotspots": [
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.07449411010742188",
+                                    "yCoordinate": "0.7513828125",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "310776123",
+                                    "331549287",
+                                    "331527797",
+                                    "205196530",
+                                    "315029063"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.7169674682617188",
+                                    "yCoordinate": "0.7383411865234375",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "206829711",
+                                    "206829710",
+                                    "321514421",
+                                    "313493791",
+                                    "328116742"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.6436842651367187",
+                                    "yCoordinate": "0.614873046875",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "327503729",
+                                    "319590290",
+                                    "204848654",
+                                    "204848645",
+                                    "304282588"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.8200562744140625",
+                                    "yCoordinate": "0.68174267578125",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "320775926",
+                                    "312147950",
+                                    "330057962",
+                                    "319100446",
+                                    "301980847"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.7694171142578125",
+                                    "yCoordinate": "0.6558497924804687",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "320933127",
+                                    "307600305",
+                                    "319309879",
+                                    "314957798",
+                                    "327840128"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.06575164794921876",
+                                    "yCoordinate": "0.7112994384765625",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "301006497",
+                                    "321998860",
+                                    "312301614",
+                                    "313295808",
+                                    "328622970"
+                                ],
+                                "__typename": "Hotspot"
+                            },
+                            {
+                                "coordinate": {
+                                    "xCoordinate": "0.8858707275390625",
+                                    "yCoordinate": "0.6444356079101563",
+                                    "__typename": "Coordinate"
+                                },
+                                "omsIDs": [
+                                    "314810145",
+                                    "301037450",
+                                    "329620271",
+                                    "327937679",
+                                    "319993516"
+                                ],
+                                "__typename": "Hotspot"
+                            }
+                        ],
+                        "altText": null,
+                        "__typename": "Image"
+                    }
+                ],
+                "video": [],
+                "threeSixty": null,
+                "richContent": null,
+                "__typename": "Media"
+            },
+            "info": {
+                "bathRenovation": false,
+                "productSubType": null,
+                "replacementOMSID": null,
+                "label": null,
+                "globalCustomConfigurator": null,
+                "hasVisuallySimilar": true,
+                "hidePrice": false,
+                "ecoRebate": false,
+                "quantityLimit": 0,
+                "categoryHierarchy": null,
+                "sskMin": null,
+                "sskMax": null,
+                "unitOfMeasureCoverage": null,
+                "wasMaxPriceRange": null,
+                "wasMinPriceRange": null,
+                "prop65Warning": true,
+                "prop65Message": "This product can expose you to Bisphenol A (BPA), Di(2-ethylhexyl)phthalate (DEHP) and Chromium (hexavalent compounds), which are known to the State of California to cause cancer and birth defects or other reproductive harm. For more information go to www.P65Warnings.ca.gov.",
+                "returnable": "90-Day",
+                "isSponsored": null,
+                "sponsoredMetadata": null,
+                "augmentedReality": false,
+                "sponsoredBeacon": null,
+                "customerSignal": null,
+                "isBuryProduct": null,
+                "isGenericProduct": null,
+                "classNumber": "20",
+                "hasSubscription": false,
+                "isLiveGoodsProduct": false,
+                "productDepartment": "27",
+                "fiscalYear": null,
+                "paintBrand": null,
+                "dotComColorEligible": false,
+                "paintFamily": null,
+                "recommendationFlags": {
+                    "visualNavigation": true,
+                    "packages": false,
+                    "pipCollections": false,
+                    "ACC": true,
+                    "collections": true,
+                    "frequentlyBoughtTogether": true,
+                    "bundles": false,
+                    "__typename": "RecommendationFlags"
+                },
+                "minimumOrderQuantity": 0,
+                "projectCalculatorEligible": false,
+                "subClassNumber": "39",
+                "isInStoreReturnMessageEligible": false,
+                "protectionPlanSku": "315046831",
+                "eligibleProtectionPlanSkus": "315046831",
+                "hasServiceAddOns": true,
+                "consultationType": null,
+                "pipCalculator": null,
+                "__typename": "Info"
+            },
+            "itemId": "319929479",
+            "taxonomy": {
+                "breadCrumbs": [
+                    {
+                        "browseUrl": null,
+                        "creativeIconUrl": null,
+                        "deselectUrl": null,
+                        "dimensionName": "Category",
+                        "label": "Lighting",
+                        "refinementKey": null,
+                        "url": "/b/Lighting/N-5yc1vZbvn5",
+                        "__typename": "BreadCrumb"
+                    },
+                    {
+                        "browseUrl": null,
+                        "creativeIconUrl": null,
+                        "deselectUrl": null,
+                        "dimensionName": "Category",
+                        "label": "Ceiling Fans",
+                        "refinementKey": null,
+                        "url": "/b/Lighting-Ceiling-Fans/N-5yc1vZbvlq",
+                        "__typename": "BreadCrumb"
+                    },
+                    {
+                        "browseUrl": null,
+                        "creativeIconUrl": null,
+                        "deselectUrl": null,
+                        "dimensionName": "Category",
+                        "label": "Ceiling Fans With Lights",
+                        "refinementKey": null,
+                        "url": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/N-5yc1vZcjnu",
+                        "__typename": "BreadCrumb"
+                    }
+                ],
+                "brandLinkUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/CARRO/N-5yc1vZcjnuZrck",
+                "__typename": "Taxonomy"
+            },
+            "pricing": {
+                "value": 239.0,
+                "unitOfMeasure": "each",
+                "alternatePriceDisplay": false,
+                "message": null,
+                "original": 315.0,
+                "mapAboveOriginalPrice": null,
+                "promotion": {
+                    "dollarOff": 76.0,
+                    "type": "DISCOUNT",
+                    "description": null,
+                    "percentageOff": 24.0,
+                    "promotionTag": null,
+                    "savingsCenter": "Special Buys",
+                    "savingsCenterPromos": null,
+                    "specialBuySavings": null,
+                    "specialBuyDollarOff": null,
+                    "specialBuyPercentageOff": null,
+                    "dates": {
+                        "end": "09/30/2024",
+                        "start": "09/01/2024",
+                        "__typename": "Dates"
+                    },
+                    "experienceTag": null,
+                    "subExperienceTag": null,
+                    "__typename": "Promotion"
+                },
+                "alternate": {
+                    "bulk": null,
+                    "unit": {
+                        "caseUnitOfMeasure": null,
+                        "unitsOriginalPrice": null,
+                        "unitsPerCase": null,
+                        "value": null,
+                        "__typename": "UnitPricing"
+                    },
+                    "__typename": "Alternate"
+                },
+                "preferredPriceFlag": false,
+                "specialBuy": null,
+                "clearance": null,
+                "conditionalPromotions": [],
+                "__typename": "Pricing"
+            },
+            "fulfillment": {
+                "fulfillmentOptions": [
+                    {
+                        "type": "pickup",
+                        "services": [
+                            {
+                                "type": "boss",
+                                "deliveryTimeline": null,
+                                "deliveryDates": {
+                                    "startDate": "2024-09-20",
+                                    "endDate": "2024-09-23",
+                                    "__typename": "DeliveryDate"
+                                },
+                                "deliveryCharge": null,
+                                "dynamicEta": null,
+                                "hasFreeShipping": false,
+                                "freeDeliveryThreshold": null,
+                                "locations": [
+                                    {
+                                        "curbsidePickupFlag": true,
+                                        "isBuyInStoreCheckNearBy": null,
+                                        "distance": null,
+                                        "inventory": {
+                                            "isOutOfStock": false,
+                                            "isInStock": true,
+                                            "isLimitedQuantity": false,
+                                            "isUnavailable": false,
+                                            "quantity": 10,
+                                            "maxAllowedBopisQty": null,
+                                            "minAllowedBopisQty": null,
+                                            "__typename": "Inventory"
+                                        },
+                                        "isAnchor": true,
+                                        "locationId": "687",
+                                        "state": "CA",
+                                        "storeName": "Upland",
+                                        "storePhone": null,
+                                        "type": "online",
+                                        "storeTimeZone": null,
+                                        "__typename": "Location"
+                                    }
+                                ],
+                                "totalCharge": 0.0,
+                                "deliveryMessage": null,
+                                "optimalFulfillment": false,
+                                "hasSameDayCarDelivery": false,
+                                "__typename": "Service"
+                            }
+                        ],
+                        "fulfillable": true,
+                        "__typename": "FulfillmentOption"
+                    },
+                    {
+                        "type": "delivery",
+                        "services": [
+                            {
+                                "type": "sth",
+                                "deliveryTimeline": "later",
+                                "deliveryDates": {
+                                    "startDate": "2024-09-18",
+                                    "endDate": "2024-09-18",
+                                    "__typename": "DeliveryDate"
+                                },
+                                "deliveryCharge": null,
+                                "dynamicEta": null,
+                                "hasFreeShipping": true,
+                                "freeDeliveryThreshold": null,
+                                "locations": [
+                                    {
+                                        "curbsidePickupFlag": null,
+                                        "isBuyInStoreCheckNearBy": null,
+                                        "distance": null,
+                                        "inventory": {
+                                            "isOutOfStock": false,
+                                            "isInStock": true,
+                                            "isLimitedQuantity": false,
+                                            "isUnavailable": false,
+                                            "quantity": 10,
+                                            "maxAllowedBopisQty": null,
+                                            "minAllowedBopisQty": null,
+                                            "__typename": "Inventory"
+                                        },
+                                        "isAnchor": false,
+                                        "locationId": "8119",
+                                        "state": "CA",
+                                        "storeName": null,
+                                        "storePhone": null,
+                                        "type": "online",
+                                        "storeTimeZone": null,
+                                        "__typename": "Location"
+                                    }
+                                ],
+                                "totalCharge": 0.0,
+                                "deliveryMessage": null,
+                                "optimalFulfillment": true,
+                                "hasSameDayCarDelivery": false,
+                                "__typename": "Service"
+                            }
+                        ],
+                        "fulfillable": true,
+                        "__typename": "FulfillmentOption"
+                    }
+                ],
+                "anchorStoreStatus": false,
+                "anchorStoreStatusType": "NA",
+                "backordered": false,
+                "backorderedShipDate": null,
+                "bossExcludedShipStates": "GU,PR,VI",
+                "excludedShipStates": "GU,PR,VI",
+                "seasonStatusEligible": null,
+                "onlineStoreStatus": true,
+                "onlineStoreStatusType": "ACTIVE",
+                "fulfillmentBundleMessage": null,
+                "fallbackMode": false,
+                "sthExcludedShipState": null,
+                "bossExcludedShipState": null,
+                "inStoreAssemblyEligible": false,
+                "bodfsAssemblyEligible": false,
+                "__typename": "Fulfillment"
+            },
+            "subscription": null,
+            "favoriteDetail": null,
+            "badges": [],
+            "reviews": {
+                "ratingsReviews": {
+                    "totalReviews": "6",
+                    "averageRating": "5.0",
+                    "__typename": "RatingsReviews"
+                },
+                "__typename": "Reviews"
+            },
+            "dataSource": "catalog",
+            "specificationGroup": [
+                {
+                    "specifications": [
+                        {
+                            "specName": "Actual Color Temperature (K)",
+                            "specValue": "2700,3500,4000",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Color",
+                            "specValue": "Reddish Brown Wood",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Color Family",
+                            "specValue": "Brown",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Material",
+                            "specValue": "Plywood",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Pitch",
+                            "specValue": "11",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Ceiling Fan Design",
+                            "specValue": "Standard",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Ceiling Fan Size",
+                            "specValue": "Medium",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Color Temperature",
+                            "specValue": "Color Changing",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Commercial/Residential",
+                            "specValue": "Residential",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Control Type",
+                            "specValue": "App,Remote,Voice",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Damp/Wet Rating",
+                            "specValue": "Damp Rated (Covered Outdoor),Dry Rated (Indoor)",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Dimmable Capability",
+                            "specValue": "Dimmable",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Durability",
+                            "specValue": "Not Applicable",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Features",
+                            "specValue": "Dimmable,Dual Motor,Light Kit Compatible,Reversible Rotation",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Housing Color",
+                            "specValue": "Black",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Housing Color Family",
+                            "specValue": "Black",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Housing Material",
+                            "specValue": "Steel",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Included",
+                            "specValue": "Downrod Included",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Indoor/Outdoor",
+                            "specValue": "Indoor,Outdoor",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Light Bulb Type Included",
+                            "specValue": "Integrated LED",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Location Use",
+                            "specValue": "Bedroom,Dining Room,Kids Room,Kitchen,Living Room,Office,Patio",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Lumens",
+                            "specValue": "1800",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Max. Airflow (CFM)",
+                            "specValue": "4900",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Max. Motor Speed (RPM)",
+                            "specValue": "205 RPM",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Motor Type",
+                            "specValue": "DC",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Mounting Type",
+                            "specValue": "Angled Mount,Downrod Mount",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Number of Blades",
+                            "specValue": "5",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Number of Lights",
+                            "specValue": "1",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Number of Speeds",
+                            "specValue": "10",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Power Options",
+                            "specValue": "Hardwired",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Recommended Room Size",
+                            "specValue": "Large Room (400 sq. ft.)",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Remote Access",
+                            "specValue": "Remote Access",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Requires Hub?",
+                            "specValue": "No Hub Required",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Returnable",
+                            "specValue": "90-Day",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Shade Material",
+                            "specValue": "Glass",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Shade Shape",
+                            "specValue": "Round",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Smart Home",
+                            "specValue": "Smart Home Enabled",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Smart Home Protocol",
+                            "specValue": "Bluetooth,Wi-Fi",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Style",
+                            "specValue": "Rustic",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Voice Control Hub Required",
+                            "specValue": "No Hub Required for Voice Control",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Watt Equivalence",
+                            "specValue": "26",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Works With",
+                            "specValue": "Alexa, Alexa, Google, Google Assistant, Siri",
+                            "__typename": "Specification"
+                        }
+                    ],
+                    "specTitle": "Details",
+                    "__typename": "SpecificationGroup"
+                },
+                {
+                    "specifications": [
+                        {
+                            "specName": "Certifications and Listings",
+                            "specValue": "DOE,ETL Listed",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Manufacturer Warranty",
+                            "specValue": "1 Year Limited",
+                            "__typename": "Specification"
+                        }
+                    ],
+                    "specTitle": "Warranty / Certifications",
+                    "__typename": "SpecificationGroup"
+                },
+                {
+                    "specifications": [
+                        {
+                            "specName": "Assembled Depth (in.)",
+                            "specValue": "52 in",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Assembled Height (in.)",
+                            "specValue": "17.1 in",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Assembled Weight (lbs.)",
+                            "specValue": "10.9 lb",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Assembled Width (in.)",
+                            "specValue": "52 in",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Length (in.)",
+                            "specValue": "26 in",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Blade Width (in.)",
+                            "specValue": "8.8 in",
+                            "__typename": "Specification"
+                        },
+                        {
+                            "specName": "Downrod Length (in.)",
+                            "specValue": "4.5",
+                            "__typename": "Specification"
+                        }
+                    ],
+                    "specTitle": "Dimensions",
+                    "__typename": "SpecificationGroup"
+                }
+            ],
+            "details": {
+                "collection": null,
+                "description": "This Everest 52 in. smart ceiling fan keeps your space cool, bright and stylish. It is a soft modern masterpiece perfect for your large indoor living spaces. This Wi-Fi smart ceiling fan is a simple design with black finish, using high quality plywood blades and has an integrated 4000K daylight LED. The fan features remote control, Wi-Fi apps and Voice Control Technology (compatible with Alexa and Google Home Assistant, but not included) to set fan preferences.",
+                "descriptiveAttributes": [
+                    {
+                        "name": "Bullet01",
+                        "value": "Compatible with Wi-Fi apps and voice control via Google Assistant, Alexa and Siri shortcut",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet02",
+                        "value": "Full function remote control - fan speed, light on/off/dim, reverse function",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet03",
+                        "value": "Fans are made with incredibly efficient and completely silent DC motors",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet04",
+                        "value": "10-speed reversible motor allows you to change the direction of your fan from downdraft mode during the Summer to updraft mode during the Winter",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet05",
+                        "value": "Includes integrated LED light kit with warm light and day light, it offers lower energy consumption and a longer life span",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet06",
+                        "value": "Standard and angled mounting system, 6 in. downrod included and compatible with CARRO ceiling fans only",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet07",
+                        "value": "Coupling cover and canopy cover conceal exposed hardware",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet08",
+                        "value": "Easy installation with step-by-step instructions",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet09",
+                        "value": "ETL Listed product",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet10",
+                        "value": "Designed for both indoor and outdoor use",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    },
+                    {
+                        "name": "Bullet23",
+                        "value": "<a href=https://www.homedepot.com/c/electronics_recycling_programs style=color:#F96302; target=_blank>Click here for more information on Electronic Recycling Programs</a>",
+                        "bulleted": true,
+                        "sequence": 0,
+                        "__typename": "DescriptiveAttribute"
+                    }
+                ],
+                "highlights": [
+                    "Integrated LED light offers dimmable lights",
+                    "DC motor with 10-speed setting ensures whisper-quiet operation",
+                    "Compatible with Amazon Alexa, Google Assistant and Siri shortcuts"
+                ],
+                "additionalResources": {
+                    "infoAndGuides": [
+                        {
+                            "name": "Energy Guide",
+                            "url": "https://images.thdstatic.com/catalog/pdfImages/f7/f71264eb-d46f-4a18-adc0-3d4514357cac.pdf",
+                            "__typename": "AdditionalResourceDetails"
+                        },
+                        {
+                            "name": "Specification",
+                            "url": "https://images.thdstatic.com/catalog/pdfImages/f0/f0415f79-c518-49ed-9610-6104e92d22eb.pdf",
+                            "__typename": "AdditionalResourceDetails"
+                        },
+                        {
+                            "name": "Instructions / Assembly",
+                            "url": "https://images.thdstatic.com/catalog/pdfImages/4d/4d52fbc9-e6cc-4014-b8f7-291736fb013b.pdf",
+                            "__typename": "AdditionalResourceDetails"
+                        },
+                        {
+                            "name": "Warranty",
+                            "url": "https://images.thdstatic.com/catalog/pdfImages/8d/8d3d6adc-dc38-4efb-84a4-0211bc08d4a6.pdf",
+                            "__typename": "AdditionalResourceDetails"
+                        }
+                    ],
+                    "installationAndRentals": [],
+                    "diyProjects": [],
+                    "__typename": "AdditionalResources"
+                },
+                "installation": {
+                    "serviceType": "PRInstall",
+                    "leadGenUrl": null,
+                    "__typename": "Installation"
+                },
+                "__typename": "Details"
+            },
+            "seo": {
+                "seoKeywords": null,
+                "seoDescription": "Change the look and feel of your home decor with this CARRO Everest Dimmable LED Indoor Outdoor Black Smart Ceiling Fan Light and Remote Works with Alexa Google Home Siri.",
+                "__typename": "Seo"
+            },
+            "keyProductFeatures": {
+                "keyProductFeaturesItems": [
+                    {
+                        "features": [
+                            {
+                                "name": "Fan Blade Span (in.)",
+                                "refinementId": null,
+                                "refinementUrl": null,
+                                "value": "52 in",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Recommended Room Size",
+                                "refinementId": "4296391741",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Large-Room-(400-sq-ft)/N-5yc1vZcjnuZ1z1yl31",
+                                "value": "Large Room (400 sq. ft.)",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Number of Blades",
+                                "refinementId": "4296389222",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/5/N-5yc1vZcjnuZ1z1yj52",
+                                "value": "5",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Mounting Type",
+                                "refinementId": "4295145471",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Downrod-Mount/N-5yc1vZcjnuZ1z17vgf",
+                                "value": "Downrod Mount",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Indoor/Outdoor",
+                                "refinementId": "4295132518",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Indoor/N-5yc1vZcjnuZ1z17lgm",
+                                "value": "Indoor",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Location Use",
+                                "refinementId": "4296323828",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Bedroom/N-5yc1vZcjnuZ1z1x4ok",
+                                "value": "Bedroom",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Features",
+                                "refinementId": "4296391208",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Reversible-Rotation/N-5yc1vZcjnuZ1z1yko8",
+                                "value": "Reversible Rotation",
+                                "__typename": "KeyProductFeaturesFeature"
+                            },
+                            {
+                                "name": "Features",
+                                "refinementId": "4295869427",
+                                "refinementUrl": "/b/Lighting-Ceiling-Fans-Ceiling-Fans-With-Lights/Dimmable/N-5yc1vZcjnuZ1z1ne2b",
+                                "value": "Dimmable",
+                                "__typename": "KeyProductFeaturesFeature"
+                            }
+                        ],
+                        "__typename": "KeyProductFeaturesItem"
+                    }
+                ],
+                "__typename": "KeyProductFeatures"
+            },
+            "bundleFlag": null,
+            "sizeAndFitDetail": {
+                "attributeGroups": [],
+                "__typename": "SizeAndFitDetail"
+            },
+            "seoDescription": "Change the look and feel of your home decor with this CARRO Everest Dimmable LED Indoor Outdoor Black Smart Ceiling Fan Light and Remote Works with Alexa Google Home Siri.",
+            "__typename": "BaseProduct"
+        }
+    }
+}
