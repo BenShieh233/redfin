@@ -27,6 +27,7 @@ def extract_data(product):
     modelNumber = product.get('identifiers', {}).get('modelNumber', {})
     price = product.get('pricing', {}).get('value', {})
     original_price = product.get('pricing', {}).get('original', {})
+    isSponsored = product.get('info', {}).get('isSponsored', {})
 
     
 
@@ -45,6 +46,7 @@ def extract_data(product):
         
     result = {
         'label': label,
+        'isSponsored': isSponsored,
         'itemId': itemId,
         'canonicalUrl':canonicalUrl,
         'brandName':brandName,

@@ -28,6 +28,7 @@ def save_ceiling_fans_to_db(df):
             canonicalUrl=row['canonicalUrl'],
             brandName=row['brandName'],
             productLabel=row['productLabel'],
+            isSponsored = row['isSponsored'],
             storeSkuNumber=row['storeSkuNumber'],
             parentId=row['parentId'],
             modelNumber=row['modelNumber'],
@@ -51,6 +52,7 @@ def update_payload(filename='payload.json', increment=0):
     return payload
 
 def extract_data(product):
+
     itemId = product.get('itemId', {})
     canonicalUrl = product.get('identifiers', {}).get('canonicalUrl', {})
     brandName = product.get('identifiers', {}).get('brandName', {})
@@ -60,6 +62,10 @@ def extract_data(product):
     modelNumber = product.get('identifiers', {}).get('modelNumber', {})
     price = product.get('pricing', {}).get('value', {})
     original_price = product.get('pricing', {}).get('original', {})
+    isSponsored = product.get('info', {}).get('isSponsored', {})
+
+    
+
     averageRating = product.get('reviews', {}).get('ratingsReviews', {}).get('averageRating', {})
     totalReviews = product.get('reviews', {}).get('ratingsReviews', {}).get('totalReviews', {})
 
@@ -72,13 +78,14 @@ def extract_data(product):
         label = product.get('badges', {})[0].get('label', {})
     except:
         label = None
-
+        
     result = {
         'label': label,
+        'isSponsored': isSponsored,
         'itemId': itemId,
-        'canonicalUrl': canonicalUrl,
-        'brandName': brandName,
-        'productLabel': productLabel,
+        'canonicalUrl':canonicalUrl,
+        'brandName':brandName,
+        'productLabel':productLabel,
         'storeSkuNumber': storeSkuNumber,
         'parentId': parentId,
         'modelNumber': modelNumber,
@@ -87,6 +94,7 @@ def extract_data(product):
         'averageRating': averageRating,
         'totalReviews': totalReviews,
         'inventory': inventory
+
     }
 
     return result
@@ -153,3 +161,5 @@ if __name__ == '__main__':
     # save_ceiling_fans_to_db(df)
 
     scrape_data()
+
+

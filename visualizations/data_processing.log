@@ -1,0 +1,8 @@
+2024-09-26 13:59:34,368:ERROR:Error merging data: cannot access local variable 'excel_df' where it is not associated with a value
+2024-09-26 13:59:34,377:ERROR:Error updating SQL table ceiling_fans_with_lights_combined: (mysql.connector.errors.ProgrammingError) 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 2
+[SQL: 
+CREATE TABLE ceiling_fans_with_lights_combined (
+)
+
+]
+(Background on this error at: https://sqlalche.me/e/20/f405)
